@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CalculadoraIMC/static/css/main.e3cea620.css",
+    "main.js": "/CalculadoraIMC/static/js/main.a700e580.js",
+    "index.html": "/CalculadoraIMC/index.html",
+    "main.e3cea620.css.map": "/CalculadoraIMC/static/css/main.e3cea620.css.map",
+    "main.a700e580.js.map": "/CalculadoraIMC/static/js/main.a700e580.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3cea620.css",
+    "static/js/main.a700e580.js"
+  ]
+}
